@@ -1,0 +1,3 @@
+name = "Hanja"
+uuid = "de2dd24e-0ba5-11e9-1f6d-9dc38c9c8708"
+repo = "https://github.com/wookay/Hanja.jl.git"

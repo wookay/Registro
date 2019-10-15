@@ -1,0 +1,3 @@
+name = "Hangul"
+uuid = "4a3431d2-40ed-11e9-0f27-4ba9bf6112e5"
+repo = "https://github.com/wookay/Hangul.jl.git"
