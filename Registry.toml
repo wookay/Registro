@@ -1,0 +1,10 @@
+name = "Registro"
+uuid = "fdd2d076-ef21-11e9-1435-9b83d91613e2"
+repo = "https://github.com/wookay/Registro.git"
+
+description = """
+private Julia package registry
+"""
+
+[packages]
+ba5e3d4b-8524-549f-bc71-e76ad9e9deed = { name = "Jive", path = "J/Jive" }
