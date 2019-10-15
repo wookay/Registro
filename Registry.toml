@@ -19,6 +19,7 @@ ba5e3d4b-8524-549f-bc71-e76ad9e9deed = { name = "Jive", path = "J/Jive" }
 4a3431d2-40ed-11e9-0f27-4ba9bf6112e5 = { name = "Hangul", path = "H/Hangul" }
 de2dd24e-0ba5-11e9-1f6d-9dc38c9c8708 = { name = "Hanja", path = "H/Hanja" }
 c7ae8f22-f0e3-11e8-1168-3fc928072714 = { name = "Sexagesimal", path = "S/Sexagesimal" }
+cff2b2ba-bc24-11e8-1300-3fbdf5197595 = { name = "Sunyata", path = "S/Sunyata" }
 c544e3c2-d3e5-5802-ac44-44683f340e4a = { name = "Tau", path = "T/Tau" }
 2eda8d22-0a9d-11e9-38c1-d96e883f27f6 = { name = "ThreeKingdoms", path = "T/ThreeKingdoms" }
 03681a08-6072-11e9-2981-89aa67d9ce53 = { name = "Tutte", path = "T/Tutte" }
