@@ -1,0 +1,3 @@
+name = "GreekLetters"
+uuid = "2e65c3dc-34b6-11e9-37f8-e1bd27fe888f"
+repo = "https://github.com/wookay/GreekLetters.jl.git"
