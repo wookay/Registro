@@ -1,0 +1,3 @@
+name = "DataLogger"
+uuid = "f60b7598-7494-11e8-3704-db4df1869bdc"
+repo = "https://github.com/wookay/DataLogger.jl.git"

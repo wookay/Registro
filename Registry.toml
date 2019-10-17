@@ -17,6 +17,7 @@ ba5e3d4b-8524-549f-bc71-e76ad9e9deed = { name = "Jive", path = "J/Jive" }
 073c1cdb-ba79-5cf0-be0e-910e86367be0 = { name = "Aheui", path = "A/Aheui" }
 74536a68-4deb-11e9-11b7-0f9d68b886ec = { name = "Allographs", path = "A/Allographs" }
 579379a2-963b-11e9-2ea7-cf2d129187a4 = { name = "Calendars", path = "C/Calendars" }
+f60b7598-7494-11e8-3704-db4df1869bdc = { name = "DataLogger", path = "D/DataLogger" }
 183a386c-803e-11e9-3d61-c37ffbc4bc2d = { name = "FixTwos", path = "F/FixTwos" }
 2e65c3dc-34b6-11e9-37f8-e1bd27fe888f = { name = "GreekLetters", path = "G/GreekLetters" }
 09ad4e76-6632-467b-9cb3-9477a91d042b = { name = "Guo", path = "G/Guo" }
