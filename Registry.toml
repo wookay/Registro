@@ -26,6 +26,7 @@ de2dd24e-0ba5-11e9-1f6d-9dc38c9c8708 = { name = "Hanja", path = "H/Hanja" }
 3fe0f96a-2fb6-11e9-0b38-0fdb88b74f87 = { name = "HexGrids", path = "H/HexGrids" }
 a55fb1be-7bd3-11e9-311f-dd6d474c370b = { name = "IDSes", path = "I/IDSes" }
 078e6c93-a565-420a-af46-e2c4e3180690 = { name = "LoRDeckCodes", path = "L/LoRDeckCodes" }
+916472c3-cd8f-4e06-b672-6b5bacc7f2b3 = { name = "LoRMock", path = "L/LoRMock" }
 c7ae8f22-f0e3-11e8-1168-3fc928072714 = { name = "Sexagesimal", path = "S/Sexagesimal" }
 cff2b2ba-bc24-11e8-1300-3fbdf5197595 = { name = "Sunyata", path = "S/Sunyata" }
 8caeadda-93d1-11e9-3946-3101ffbf397f = { name = "Taltal", path = "T/Taltal" }

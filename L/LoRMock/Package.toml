@@ -1,0 +1,3 @@
+name = "LoRMock"
+uuid = "916472c3-cd8f-4e06-b672-6b5bacc7f2b3"
+repo = "https://github.com/wookay/LoRMock.jl.git"
