@@ -19,6 +19,7 @@ ba5e3d4b-8524-549f-bc71-e76ad9e9deed = { name = "Jive", path = "J/Jive" }
 579379a2-963b-11e9-2ea7-cf2d129187a4 = { name = "Calendars", path = "C/Calendars" }
 f60b7598-7494-11e8-3704-db4df1869bdc = { name = "DataLogger", path = "D/DataLogger" }
 9ce87802-5ebf-43a1-bed4-4b926cbe9236 = { name = "DiscordTools", path = "D/DiscordTools" }
+c599478c-de41-4aed-94ea-b47665d7a42a = { name = "EmojiSymbols", path = "E/EmojiSymbols" }
 183a386c-803e-11e9-3d61-c37ffbc4bc2d = { name = "FixTwos", path = "F/FixTwos" }
 9104b031-1ea6-43fe-b007-3399d82583c1 = { name = "GithubTools", path = "G/GithubTools" }
 2e65c3dc-34b6-11e9-37f8-e1bd27fe888f = { name = "GreekLetters", path = "G/GreekLetters" }
