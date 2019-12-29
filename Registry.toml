@@ -10,6 +10,7 @@ private Julia package registry
 3e78a19a-cc83-51d8-955b-515f39fd7955 = { name = "Bukdu", path = "B/Bukdu" }
 f62fece2-b996-571a-b4c9-e662aba1c617 = { name = "H3", path = "H/H3" }
 ba5e3d4b-8524-549f-bc71-e76ad9e9deed = { name = "Jive", path = "J/Jive" }
+e2c437b3-d38f-4222-8753-dddcd5679a95 = { name = "LOLTools", path = "L/LOLTools" }
 39ec1447-df44-5f4c-beaa-866f30b4d3b2 = { name = "Millboard", path = "M/Millboard" }
 16905944-f982-529b-abb2-b839f98f160b = { name = "Octo", path = "O/Octo" }
 197b51f5-fdb5-5f35-aa9f-0a14f35f5b28 = { name = "Poptart", path = "P/Poptart" }
@@ -26,12 +27,11 @@ c599478c-de41-4aed-94ea-b47665d7a42a = { name = "EmojiSymbols", path = "E/EmojiS
 09ad4e76-6632-467b-9cb3-9477a91d042b = { name = "Guo", path = "G/Guo" }
 4a3431d2-40ed-11e9-0f27-4ba9bf6112e5 = { name = "Hangul", path = "H/Hangul" }
 de2dd24e-0ba5-11e9-1f6d-9dc38c9c8708 = { name = "Hanja", path = "H/Hanja" }
-3fe0f96a-2fb6-11e9-0b38-0fdb88b74f87 = { name = "HexGrids", path = "H/HexGrids" }
+729f561e-57a1-4f37-ac44-406d8c1bb901 = { name = "HexGrids", path = "H/HexGrids" }
 a55fb1be-7bd3-11e9-311f-dd6d474c370b = { name = "IDSes", path = "I/IDSes" }
 078e6c93-a565-420a-af46-e2c4e3180690 = { name = "LoRDeckCodes", path = "L/LoRDeckCodes" }
 916472c3-cd8f-4e06-b672-6b5bacc7f2b3 = { name = "LoRMock", path = "L/LoRMock" }
 03c70d9c-0ed3-11e9-06d8-0580e60b4340 = { name = "Lupin", path = "L/Lupin" }
-e2c437b3-d38f-4222-8753-dddcd5679a95 = { name = "LOLTools", path = "L/LOLTools" }
 e6fe5354-34fd-11e9-0e3c-7f69bb4aca21 = { name = "Mathematics", path = "M/Mathematics" }
 b78a7444-de30-11e8-1888-c787cb831373 = { name = "MyPrompt", path = "M/MyPrompt" }
 c7ae8f22-f0e3-11e8-1168-3fc928072714 = { name = "Sexagesimal", path = "S/Sexagesimal" }
