@@ -59,7 +59,7 @@ S:
 Sexagesimal    Sunyata
 
 T:
-Taltal    Tau    ThreeKingdoms    Tutte    TwitchTools
+Taltal    Tau    ThreeKingdoms    Tutte    🏭 TwitchTools
 ```
 
 
