@@ -17,7 +17,7 @@ A:
 Aheui    Allographs
 
 B:
-BaseballGame    📦 Bukdu
+Banners    BaseballGame    📦 Bukdu
 
 C:
 Calendars
