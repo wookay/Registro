@@ -1,0 +1,3 @@
+name = "UNIX"
+uuid = "6804ed55-fbcb-417d-89ab-86a903427827"
+repo = "https://github.com/wookay/UNIX.jl.git"
