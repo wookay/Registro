@@ -37,6 +37,7 @@ a55fb1be-7bd3-11e9-311f-dd6d474c370b = { name = "IDSes", path = "I/IDSes" }
 e6fe5354-34fd-11e9-0e3c-7f69bb4aca21 = { name = "Mathematics", path = "M/Mathematics" }
 b78a7444-de30-11e8-1888-c787cb831373 = { name = "MyPrompt", path = "M/MyPrompt" }
 c7ae8f22-f0e3-11e8-1168-3fc928072714 = { name = "Sexagesimal", path = "S/Sexagesimal" }
+3050c3ad-8159-57fb-bf12-a7300def513b = { name = "SpineRuntimes_jll", path = "S/SpineRuntimes_jll" }
 cff2b2ba-bc24-11e8-1300-3fbdf5197595 = { name = "Sunyata", path = "S/Sunyata" }
 8caeadda-93d1-11e9-3946-3101ffbf397f = { name = "Taltal", path = "T/Taltal" }
 c544e3c2-d3e5-5802-ac44-44683f340e4a = { name = "Tau", path = "T/Tau" }
