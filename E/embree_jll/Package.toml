@@ -1,0 +1,3 @@
+name = "embree_jll"
+uuid = "53dd5c6e-97f4-5e79-aac9-38fee591a4c7"
+repo = "https://github.com/wookay/embree_jll.jl.git"
